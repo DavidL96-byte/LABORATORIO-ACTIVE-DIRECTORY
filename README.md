@@ -1,2 +1,2 @@
 # LABORATORIO-ACTIVE-DIRECTORY
-Despliegue de dominio en Windows Server, administración de usuarios y OUs, políticas de grupo (GPO)
+Despliegue de active directory en Windows Server, administración de usuarios y OUs, políticas de grupo (GPO)
